@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be550624-9341-405f-bc78-7fbf9c82e36e)<h1 align="center">Hi 👋, I'm Mohimenul Islam</h1>
+<h1 align="center">Hi 👋, I'm Mohimenul Islam</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohimenulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mohimenulislam" /> </p>
 
 <h3 align="left">Connect with me:</h3>
